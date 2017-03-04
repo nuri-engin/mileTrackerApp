@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+ul {
+  display: block;
+}
+
+footer {
+  color: inherit;
+}
+
+.controls {
+  float: right;
+}
+
+#stats p {
+  color: red;
+}
